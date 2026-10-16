@@ -15,6 +15,8 @@
 ### 🙋‍♂️ About Me
 
 - 🔭 Currently building **practical web projects** that solve real problems
+- 🎓 BS Mathematics graduate who taught himself web development and now builds sites for real clients
+- 🤖 I build fast using AI tools (Lovable) and I'm learning React & TypeScript deeply to understand every line
 - 🌱 Learning **JavaScript, React and Node.js**
 - 💼 Background in **e-commerce** — I understand how real businesses run online
 - 🎯 Goal: become a **full-stack developer** and contribute to open source
@@ -43,10 +45,12 @@
 
 <!-- Har project banne ke baad yahan add karte jao -->
 
-| Project | Description | Status |
+| Project | Description | Links |
 |---|---|---|
-| **Portfolio Website** | My personal site showcasing my work | 🚧 In progress |
-| **More coming soon** | Building real-world projects — stay tuned 👀 | ⏳ Planned |
+| **RideFix UK** (client) | Garage & mobile auto repair platform for a UK business — online booking, number-plate quote flow, WhatsApp integration, admin panel | [Live](https://ridefix.uk) · [Case Study](https://www.stakzey.com/work/ridefix) |
+| **Stakzey Digital** | My web development studio site — services, pricing, free website audit & cost calculator tools | [Live](https://stakzey.com) |
+| **ITT Global** | Developer toolkit with 18+ tools — password generators, SEO tools, AI prompt builders | [Live](https://www.ittglobal.store) |
+| **Zirwa Clothing** (client) | E-commerce storefront for a fashion brand | 🚧 In progress |
 
 ---
 
